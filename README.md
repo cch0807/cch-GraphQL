@@ -8,6 +8,6 @@ GraphQL study with node.js
 - graphql
 
 ### Pakages
-- nodemon `3.0.1`
-- convert-csv-to-json
 - apollo-server
+- convert-csv-to-json
+- nodemon
